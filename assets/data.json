@@ -1,0 +1,1442 @@
+[
+  {
+    "piece": "Entrée",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Table Console",
+        "volume": 0.5,
+        "image": "table-console.png"
+      },
+      {
+        "name": "Armoire 2 portes",
+        "volume": 2.0,
+        "image": "armoire-2-porte.png"
+      },
+      {
+        "name": "Porte Manteau",
+        "volume": 0.5,
+        "image": "porte-manteau.png"
+      },
+      {
+        "name": "Meuble à chaussures",
+        "volume": 0.5,
+        "image": "etagere-a-chaussures.png"
+      }
+    ]
+  },
+  {
+    "piece": "Salon",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Aquarium",
+        "volume": 0.5,
+        "image": "aquarium.png"
+      },
+      {
+        "name": "Bibliothèque 1 porte",
+        "volume": 1.0,
+        "image": "bibliotheque-1-porte.png"
+      },
+      {
+        "name": "Bibliothèque 2 portes",
+        "volume": 2.0,
+        "image": "bibliotheque-2-porte.png"
+      },
+      {
+        "name": "Bibliothèque 3 portes",
+        "volume": 3.0,
+        "image": "bibliotheque-4-porte.png"
+      },
+      {
+        "name": "Bibliothèque 4 portes",
+        "volume": 4.0,
+        "image": "bibliotheque-4-porte.png"
+      },
+      {
+        "name": "Buffet Bas 2 Portes",
+        "volume": 1.0,
+        "image": "buffet-bas-2-porte.png"
+      },
+      {
+        "name": "Buffet Bas 3 Portes",
+        "volume": 2.0,
+        "image": "buffet-bas-3-porte.png"
+      },
+      {
+        "name": "Buffet Haut et Bas 2 Portes",
+        "volume": 2.0,
+        "image": "buffet-haut-2-porte.png"
+      },
+      {
+        "name": "Buffet Haut et Bas 3 Portes",
+        "volume": 4.0,
+        "image": "buffet-haut-3-porte.png"
+      },
+      {
+        "name": "Canapé 2 places",
+        "volume": 2.0,
+        "image": "canape-2-place.png"
+      },
+      {
+        "name": "Canapé 3 places",
+        "volume": 3.0,
+        "image": "canape-3-place.png"
+      },
+      {
+        "name": "Canapé d'angle",
+        "volume": 4.0,
+        "image": "canape-angle.png"
+      },
+      {
+        "name": "Chaine Hi-Fi",
+        "volume": 0.3,
+        "image": "chaine-hi-fi.png"
+      },
+      {
+        "name": "Chaise",
+        "volume": 0.2,
+        "image": "chaise.png"
+      },
+      {
+        "name": "Chaise Bébé",
+        "volume": 0.3,
+        "image": "chaise-bebe.png"
+      },
+      {
+        "name": "Chaise Voltaire",
+        "volume": 0.5,
+        "image": "chaise-voltaire.png"
+      },
+      {
+        "name": "Clic-Clac",
+        "volume": 2.0,
+        "image": "clic-clac.png"
+      },
+      {
+        "name": "Colonne à CD",
+        "volume": 0.3,
+        "image": "colonne-a-cd.jpg"
+      },
+      {
+        "name": "Colonne à Fleur",
+        "volume": 0.5,
+        "image": "colonne-a-fleur.png"
+      },
+      {
+        "name": "Etagère Basse",
+        "volume": 0.7,
+        "image": "etagere-basse.png"
+      },
+      {
+        "name": "Etagère Basse 90 cm",
+        "volume": 0.7,
+        "image": "etagere-basse.png"
+      },
+      {
+        "name": "Etagère Basse 140 cm",
+        "volume": 0.5,
+        "image": "etagere-basse.png"
+      },
+      {
+        "name": "Etagère Double",
+        "volume": 1.5,
+        "image": "etageres-double.png"
+      },
+      {
+        "name": "Etagère Simple",
+        "volume": 1.0,
+        "image": "etagere-simple.png"
+      },
+      {
+        "name": "Fauteuil",
+        "volume": 1.0,
+        "image": "fauteuil.png"
+      },
+      {
+        "name": "Guéridon",
+        "volume": 0.3,
+        "image": "gueridon.png"
+      },
+      {
+        "name": "Meuble Bas 2 Portes",
+        "volume": 1.0,
+        "image": "meuble-bas-2-porte.png"
+      },
+      {
+        "name": "Meuble Haut",
+        "volume": 1.0,
+        "image": "meuble-haut.png"
+      },
+      {
+        "name": "Meuble Mural",
+        "volume": 1.0,
+        "image": "meuble-mural.png"
+      },
+      {
+        "name": "Meuble TV",
+        "volume": 1.0,
+        "image": "meuble-tv.png"
+      },
+      {
+        "name": "Meuble TV Bas",
+        "volume": 0.5,
+        "image": "meuble-tv-bas.png"
+      },
+      {
+        "name": "Meuble TV Haut",
+        "volume": 2.0,
+        "image": "meuble-tv-haut.png"
+      },
+      {
+        "name": "Piano à queue",
+        "volume": 3.0,
+        "image": "piano-a-queue.png"
+      },
+      {
+        "name": "Piano Droit",
+        "volume": 2.0,
+        "image": "piano-droit.png"
+      },
+      {
+        "name": "Table 4 Personnes",
+        "volume": 1.0,
+        "image": "table-4-personnes.png"
+      },
+      {
+        "name": "Table 6 Personnes",
+        "volume": 1.5,
+        "image": "table-6-personnes.png"
+      },
+      {
+        "name": "Table 8 Personnes",
+        "volume": 2.0,
+        "image": "table-8-personnes.png"
+      },
+      {
+        "name": "Table Basse",
+        "volume": 0.5,
+        "image": "table-basse.png"
+      },
+      {
+        "name": "Table Gigogne",
+        "volume": 0.5,
+        "image": "table-gigogne.jpg"
+      },
+      {
+        "name": "Tabouret",
+        "volume": 0.2,
+        "image": "tabouret.png"
+      },
+      {
+        "name": "Tapis Carré",
+        "volume": 0.5,
+        "image": "tapis-carre.png"
+      },
+      {
+        "name": "Téléviseur Cathodique",
+        "volume": 0.5,
+        "image": "television-cathodique.png"
+      },
+      {
+        "name": "Téléviseur Plat",
+        "volume": 0.5,
+        "image": "televiseur-plat.png"
+      },
+      {
+        "name": "Vase",
+        "volume": 0.1,
+        "image": "vase.png"
+      },
+      {
+        "name": "Vitrine 1 Porte",
+        "volume": 1.0,
+        "image": "vitrine-1-porte.png"
+      },
+      {
+        "name": "Vitrine 2 Portes",
+        "volume": 2.0,
+        "image": "vitrine-2-portes.png"
+      }
+    ]
+  },
+  {
+    "piece": "Cuisine",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Congélateur à Bac",
+        "volume": 1.5,
+        "image": "congelateur-bac.png"
+      },
+      {
+        "name": "Congelareur à Tiroir",
+        "volume": 1.0,
+        "image": "congelateur-tiroir.png"
+      },
+      {
+        "name": "Four",
+        "volume": 0.5,
+        "image": "four.png"
+      },
+      {
+        "name": "Micro-ondes",
+        "volume": 0.5,
+        "image": "micro-onde.png"
+      },
+      {
+        "name": "Gazinière",
+        "volume": 0.5,
+        "image": "gaziniere.png"
+      },
+      {
+        "name": "Lave Vaisselle",
+        "volume": 0.5,
+        "image": "lave-vaisselle.png"
+      },
+      {
+        "name": "Mini Four",
+        "volume": 0.3,
+        "image": "mini-four.png"
+      },
+      {
+        "name": "Petit Électroménager",
+        "volume": 0.2,
+        "image": "petit-electromenager.png"
+      },
+      {
+        "name": "Poubelle",
+        "volume": 0.2,
+        "image": "poubelle.png"
+      },
+      {
+        "name": "Réfrigérateur Américain",
+        "volume": 2.0,
+        "image": "refrigerateur-americain.png"
+      },
+      {
+        "name": "Réfrigérateur Combiné",
+        "volume": 1.5,
+        "image": "refrigerateur-combine.png"
+      },
+      {
+        "name": "Réfrigérateur Top",
+        "volume": 0.5,
+        "image": "refrigerateur-top.png"
+      }
+    ]
+  },
+  {
+    "piece": "Chambre Parentale",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Armoire 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire 2 portes",
+        "volume": 2.0,
+        "image": "armoire-2-porte.png"
+      },
+      {
+        "name": "Armoire 3 portes",
+        "volume": 3.0,
+        "image": "armoire-3-porte.png"
+      },
+      {
+        "name": "Armoire 4 portes",
+        "volume": 4.0,
+        "image": "armoire-4-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 2 portes",
+        "volume": 2.0,
+        "image": "armoire-rustique-2-porte.png"
+      },
+      {
+        "name": "Lit 2 places ou KingSize",
+        "volume": 2.0,
+        "image": "lit-2-places.png"
+      },
+      {
+        "name": "Matelas 140 - 160 - 180 - 200",
+        "volume": 2.0,
+        "image": "matelas-140-160-180-200.png"
+      },
+      {
+        "name": "Bureau Ordi",
+        "volume": 1.0,
+        "image": "bureau.png"
+      },
+      {
+        "name": "Chaise de Bureau",
+        "volume": 0.4,
+        "image": "chaise-de-bureau.png"
+      },
+      {
+        "name": "Commode 3 Tiroirs",
+        "volume": 0.5,
+        "image": "commode-3-tiroirs.png"
+      },
+      {
+        "name": "Commode 4 Tiroirs",
+        "volume": 1.5,
+        "image": "commode-4-tiroirs.png"
+      },
+      {
+        "name": "Valet",
+        "volume": 0.2,
+        "image": "valet.jpg"
+      },
+      {
+        "name": "Penderie à Roulette",
+        "volume": 0.3,
+        "image": "penderie-a-roulette.png"
+      },
+      {
+        "name": "Table de Chevet",
+        "volume": 0.5,
+        "image": "table-de-chevet.png"
+      }
+    ]
+  },
+  {
+    "piece": "Chambre Bébé",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Coffre à jouet",
+        "volume": 0.3,
+        "image": "coffre-jouet.png"
+      },
+      {
+        "name": "Table à langer",
+        "volume": 1.0,
+        "image": "table-a-langer.png"
+      },
+      {
+        "name": "Lit Bébé",
+        "volume": 1.0,
+        "image": "lit-bebe.png"
+      },
+      {
+        "name": "Lit 1 place",
+        "volume": 1.0,
+        "image": "lit-1-place.png"
+      },
+      {
+        "name": "Matelas bébé",
+        "volume": 0.5,
+        "image": "matelas-bebe.png"
+      },
+      {
+        "name": "Matelas 1 place",
+        "volume": 1.0,
+        "image": "matelas-1-place.png"
+      },
+      {
+        "name": "Armoire 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire 2 portes",
+        "volume": 2.0,
+        "image": "armoire-2-porte.png"
+      },
+      {
+        "name": "Armoire 3 portes",
+        "volume": 3.0,
+        "image": "armoire-3-porte.png"
+      },
+      {
+        "name": "Armoire 4 portes",
+        "volume": 4.0,
+        "image": "armoire-4-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 2 portes",
+        "volume": 2.0,
+        "image": "armoire-rustique-2-porte.png"
+      },
+      {
+        "name": "Commode 3 Tiroirs",
+        "volume": 0.5,
+        "image": "commode-3-tiroirs.png"
+      },
+      {
+        "name": "Commode 4 Tiroirs",
+        "volume": 1.5,
+        "image": "commode-4-tiroirs.png"
+      },
+      {
+        "name": "Penderie à Roulette",
+        "volume": 0.3,
+        "image": "penderie-a-roulette.png"
+      },
+      {
+        "name": "Table de Chevet",
+        "volume": 0.5,
+        "image": "table-de-chevet.png"
+      }
+    ]
+  },
+  {
+    "piece": "Chambre 1",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Armoire 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire 2 portes",
+        "volume": 2.0,
+        "image": "armoire-2-porte.png"
+      },
+      {
+        "name": "Armoire 3 portes",
+        "volume": 3.0,
+        "image": "armoire-3-porte.png"
+      },
+      {
+        "name": "Armoire 4 portes",
+        "volume": 4.0,
+        "image": "armoire-4-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 2 portes",
+        "volume": 2.0,
+        "image": "armoire-rustique-2-porte.png"
+      },
+      {
+        "name": "Bureau Ordi",
+        "volume": 1.0,
+        "image": "bureau.png"
+      },
+      {
+        "name": "Chaise de Bureau",
+        "volume": 0.4,
+        "image": "chaise-de-bureau.png"
+      },
+      {
+        "name": "Commode 3 Tiroirs",
+        "volume": 0.5,
+        "image": "commode-3-tiroirs.png"
+      },
+      {
+        "name": "Commode 4 Tiroirs",
+        "volume": 1.5,
+        "image": "commode-4-tiroirs.png"
+      },
+      {
+        "name": "Coffre à jouet",
+        "volume": 0.3,
+        "image": "coffre-jouet.png"
+      },
+      {
+        "name": "Valet",
+        "volume": 0.2,
+        "image": "valet.jpg"
+      },
+      {
+        "name": "Lit 1 place",
+        "volume": 1.0,
+        "image": "lit-1-place.png"
+      },
+      {
+        "name": "Lit 2 places ou KingSize",
+        "volume": 2.0,
+        "image": "lit-2-places.png"
+      },
+      {
+        "name": "Lit Bébé",
+        "volume": 1.0,
+        "image": "lit-bebe.png"
+      },
+      {
+        "name": "Table à langer",
+        "volume": 1.0,
+        "image": "table-a-langer.png"
+      },
+      {
+        "name": "Lit Mezzanine",
+        "volume": 2.0,
+        "image": "lit-mezzanine.png"
+      },
+      {
+        "name": "Lit Superposés",
+        "volume": 2.0,
+        "image": "lit-superpose.png"
+      },
+      {
+        "name": "Matelas bébé",
+        "volume": 0.5,
+        "image": "matelas-bebe.png"
+      },
+      {
+        "name": "Matelas 1 place",
+        "volume": 1.0,
+        "image": "matelas-1-place.png"
+      },
+      {
+        "name": "Matelas 140 - 160 - 180 - 200",
+        "volume": 2.0,
+        "image": "matelas-140-160-180-200.png"
+      },
+      {
+        "name": "Penderie à Roulette",
+        "volume": 0.3,
+        "image": "penderie-a-roulette.png"
+      },
+      {
+        "name": "Table de Chevet",
+        "volume": 0.5,
+        "image": "table-de-chevet.png"
+      }
+    ]
+  },
+  {
+    "piece": "Chambre 2",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Armoire 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire 2 portes",
+        "volume": 2.0,
+        "image": "armoire-2-porte.png"
+      },
+      {
+        "name": "Armoire 3 portes",
+        "volume": 3.0,
+        "image": "armoire-3-porte.png"
+      },
+      {
+        "name": "Armoire 4 portes",
+        "volume": 4.0,
+        "image": "armoire-4-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 2 portes",
+        "volume": 2.0,
+        "image": "armoire-rustique-2-porte.png"
+      },
+      {
+        "name": "Bureau Ordi",
+        "volume": 1.0,
+        "image": "bureau.png"
+      },
+      {
+        "name": "Chaise de Bureau",
+        "volume": 0.4,
+        "image": "chaise-de-bureau.png"
+      },
+      {
+        "name": "Commode 3 Tiroirs",
+        "volume": 0.5,
+        "image": "commode-3-tiroirs.png"
+      },
+      {
+        "name": "Commode 4 Tiroirs",
+        "volume": 1.5,
+        "image": "commode-4-tiroirs.png"
+      },
+      {
+        "name": "Coffre à jouet",
+        "volume": 0.3,
+        "image": "coffre-jouet.png"
+      },
+      {
+        "name": "Valet",
+        "volume": 0.2,
+        "image": "valet.jpg"
+      },
+      {
+        "name": "Lit 1 place",
+        "volume": 1.0,
+        "image": "lit-1-place.png"
+      },
+      {
+        "name": "Lit 2 places ou KingSize",
+        "volume": 2.0,
+        "image": "lit-2-places.png"
+      },
+      {
+        "name": "Lit Bébé",
+        "volume": 1.0,
+        "image": "lit-bebe.png"
+      },
+      {
+        "name": "Table à langer",
+        "volume": 1.0,
+        "image": "table-a-langer.png"
+      },
+      {
+        "name": "Lit Mezzanine",
+        "volume": 2.0,
+        "image": "lit-mezzanine.png"
+      },
+      {
+        "name": "Lit Superposés",
+        "volume": 2.0,
+        "image": "lit-superpose.png"
+      },
+      {
+        "name": "Matelas bébé",
+        "volume": 0.5,
+        "image": "matelas-bebe.png"
+      },
+      {
+        "name": "Matelas 1 place",
+        "volume": 1.0,
+        "image": "matelas-1-place.png"
+      },
+      {
+        "name": "Matelas 140 - 160 - 180 - 200",
+        "volume": 2.0,
+        "image": "matelas-140-160-180-200.png"
+      },
+      {
+        "name": "Penderie à Roulette",
+        "volume": 0.3,
+        "image": "penderie-a-roulette.png"
+      },
+      {
+        "name": "Table de Chevet",
+        "volume": 0.5,
+        "image": "table-de-chevet.png"
+      }
+    ]
+  },
+  {
+    "piece": "Chambre 3",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Armoire 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire 2 portes",
+        "volume": 2.0,
+        "image": "armoire-2-porte.png"
+      },
+      {
+        "name": "Armoire 3 portes",
+        "volume": 3.0,
+        "image": "armoire-3-porte.png"
+      },
+      {
+        "name": "Armoire 4 portes",
+        "volume": 4.0,
+        "image": "armoire-4-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 1 porte",
+        "volume": 1.0,
+        "image": "armoire-1-porte.png"
+      },
+      {
+        "name": "Armoire Rustique 2 portes",
+        "volume": 2.0,
+        "image": "armoire-rustique-2-porte.png"
+      },
+      {
+        "name": "Bureau Ordi",
+        "volume": 1.0,
+        "image": "bureau.png"
+      },
+      {
+        "name": "Chaise de Bureau",
+        "volume": 0.4,
+        "image": "chaise-de-bureau.png"
+      },
+      {
+        "name": "Commode 3 Tiroirs",
+        "volume": 0.5,
+        "image": "commode-3-tiroirs.png"
+      },
+      {
+        "name": "Commode 4 Tiroirs",
+        "volume": 1.5,
+        "image": "commode-4-tiroirs.png"
+      },
+      {
+        "name": "Coffre à jouet",
+        "volume": 0.3,
+        "image": "coffre-jouet.png"
+      },
+      {
+        "name": "Valet",
+        "volume": 0.2,
+        "image": "valet.jpg"
+      },
+      {
+        "name": "Lit 1 place",
+        "volume": 1.0,
+        "image": "lit-1-place.png"
+      },
+      {
+        "name": "Lit 2 places ou KingSize",
+        "volume": 2.0,
+        "image": "lit-2-places.png"
+      },
+      {
+        "name": "Lit Bébé",
+        "volume": 1.0,
+        "image": "lit-bebe.png"
+      },
+      {
+        "name": "Table à langer",
+        "volume": 1.0,
+        "image": "table-a-langer.png"
+      },
+      {
+        "name": "Lit Mezzanine",
+        "volume": 2.0,
+        "image": "lit-mezzanine.png"
+      },
+      {
+        "name": "Lit Superposés",
+        "volume": 2.0,
+        "image": "lit-superpose.png"
+      },
+      {
+        "name": "Matelas bébé",
+        "volume": 0.5,
+        "image": "matelas-bebe.png"
+      },
+      {
+        "name": "Matelas 1 place",
+        "volume": 1.0,
+        "image": "matelas-1-place.png"
+      },
+      {
+        "name": "Matelas 140 - 160 - 180 - 200",
+        "volume": 2.0,
+        "image": "matelas-140-160-180-200.png"
+      },
+      {
+        "name": "Penderie à Roulette",
+        "volume": 0.3,
+        "image": "penderie-a-roulette.png"
+      },
+      {
+        "name": "Table de Chevet",
+        "volume": 0.5,
+        "image": "table-de-chevet.png"
+      }
+    ]
+  },
+  {
+    "piece": "Salle de bain",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Bac à linge",
+        "volume": 0.2,
+        "image": "bac-a-linge.png"
+      },
+      {
+        "name": "Miroir",
+        "volume": 0.2,
+        "image": "miroir.png"
+      },
+      {
+        "name": "Tapis de Bain",
+        "volume": 0.2,
+        "image": "tapis-de-bain.png"
+      },
+      {
+        "name": "Armoire basse 2 portes",
+        "volume": 0.5,
+        "image": "armoire_basse_2_portes.png"
+      },
+      {
+        "name": "Meuble sous vasque",
+        "volume": 0.5,
+        "image": "meuble_sous_vasque.png"
+      },
+      {
+        "name": "Lave Linge",
+        "volume": 0.5,
+        "image": "lave-linge.png"
+      },
+      {
+        "name": "Sèche Linge",
+        "volume": 0.5,
+        "image": "seche-linge.png"
+      },
+      {
+        "name": "Poubelle",
+        "volume": 0.2,
+        "image": "poubelle.png"
+      }
+    ]
+  },
+  {
+    "piece": "Garage",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Escabeau",
+        "volume": 0.5,
+        "image": "escabeau.png"
+      },
+      {
+        "name": "Établi",
+        "volume": 4.0,
+        "image": "etabli.jpg"
+      },
+      {
+        "name": "Étagère Métalique",
+        "volume": 0.5,
+        "image": "etagere-metalique.png"
+      },
+      {
+        "name": "Lave Linge",
+        "volume": 0.5,
+        "image": "lave-linge.png"
+      },
+      {
+        "name": "Sèche Linge",
+        "volume": 0.5,
+        "image": "seche-linge.png"
+      },
+      {
+        "name": "Moto",
+        "volume": 2.5,
+        "image": "moto.png"
+      },
+      {
+        "name": "Panneau de Basket",
+        "volume": 0.3,
+        "image": "panneau-de-basket.png"
+      },
+      {
+        "name": "Table de ping-pong",
+        "volume": 2.0,
+        "image": "table-de-ping-pong.png"
+      },
+      {
+        "name": "Parasol",
+        "volume": 0.5,
+        "image": "parasol.png"
+      },
+      {
+        "name": "Tricycle",
+        "volume": 0.3,
+        "image": "tricycle.png"
+      },
+      {
+        "name": "Vélo",
+        "volume": 1.0,
+        "image": "velo.png"
+      },
+      {
+        "name": "Vélo enfant",
+        "volume": 0.5,
+        "image": "velo-enfant.png"
+      },
+      {
+        "name": "Planche à voile",
+        "volume": 1.5,
+        "image": "planche-a-voile.png"
+      }
+    ]
+  },
+  {
+    "piece": "Cave",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Bouteille de vin 12 (1 caisse)",
+        "volume": 0.1,
+        "image": "bouteille-de-vin.png"
+      },
+      {
+        "name": "Cantine",
+        "volume": 0.5,
+        "image": "cantine.png"
+      },
+      {
+        "name": "Cave à vin",
+        "volume": 1.5,
+        "image": "cave-a-vin.png"
+      }
+    ]
+  },
+  {
+    "piece": "Dépendances",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Banc",
+        "volume": 0.4,
+        "image": "banc.png"
+      },
+      {
+        "name": "Barbecue",
+        "volume": 1.0,
+        "image": "barbecue.png"
+      },
+      {
+        "name": "Chaise de Jardin",
+        "volume": 0.3,
+        "image": "chaise-de-jardin.png"
+      },
+      {
+        "name": "Chaise Longue",
+        "volume": 0.3,
+        "image": "chaise-longue.png"
+      },
+      {
+        "name": "Maison Enfant",
+        "volume": 1.5,
+        "image": "maison-enfant.png"
+      },
+      {
+        "name": "Piscine Hors sol",
+        "volume": 3.0,
+        "image": "piscine-hors-sol.png"
+      },
+      {
+        "name": "Portique",
+        "volume": 3.0,
+        "image": "portique.png"
+      },
+      {
+        "name": "Table de jardin",
+        "volume": 0.5,
+        "image": "table-de-jardin.png"
+      },
+      {
+        "name": "Tondeuse",
+        "volume": 0.5,
+        "image": "tondeuse.png"
+      },
+      {
+        "name": "Tracteur Enfant",
+        "volume": 1.0,
+        "image": "tracteur-enfant.png"
+      },
+      {
+        "name": "Tracteur Tondeuse",
+        "volume": 2.5,
+        "image": "tracteur-tondeuse.png"
+      }
+    ]
+  },
+  {
+    "piece": "Extérieur",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Banc",
+        "volume": 0.4,
+        "image": "banc.png"
+      },
+      {
+        "name": "Barbecue",
+        "volume": 1.0,
+        "image": "barbecue.png"
+      },
+      {
+        "name": "Chaise de Jardin",
+        "volume": 0.3,
+        "image": "chaise-de-jardin.png"
+      },
+      {
+        "name": "Chaise Longue",
+        "volume": 0.3,
+        "image": "chaise-longue.png"
+      },
+      {
+        "name": "Maison Enfant",
+        "volume": 1.5,
+        "image": "maison-enfant.png"
+      },
+      {
+        "name": "Piscine Hors sol",
+        "volume": 3.0,
+        "image": "piscine-hors-sol.png"
+      },
+      {
+        "name": "Portique",
+        "volume": 3.0,
+        "image": "portique.png"
+      },
+      {
+        "name": "Table de jardin",
+        "volume": 0.5,
+        "image": "table-de-jardin.png"
+      },
+      {
+        "name": "Tondeuse",
+        "volume": 0.5,
+        "image": "tondeuse.png"
+      },
+      {
+        "name": "Tracteur Enfant",
+        "volume": 1.0,
+        "image": "tracteur-enfant.png"
+      },
+      {
+        "name": "Tracteur Tondeuse",
+        "volume": 2.5,
+        "image": "tracteur-tondeuse.png"
+      }
+    ]
+  },
+  {
+    "piece": "Cabanon",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Banc",
+        "volume": 0.4,
+        "image": "banc.png"
+      },
+      {
+        "name": "Barbecue",
+        "volume": 1.0,
+        "image": "barbecue.png"
+      },
+      {
+        "name": "Chaise de Jardin",
+        "volume": 0.3,
+        "image": "chaise-de-jardin.png"
+      },
+      {
+        "name": "Chaise Longue",
+        "volume": 0.3,
+        "image": "chaise-longue.png"
+      },
+      {
+        "name": "Maison Enfant",
+        "volume": 1.5,
+        "image": "maison-enfant.png"
+      },
+      {
+        "name": "Piscine Hors sol",
+        "volume": 3.0,
+        "image": "piscine-hors-sol.png"
+      },
+      {
+        "name": "Portique",
+        "volume": 3.0,
+        "image": "portique.png"
+      },
+      {
+        "name": "Table de jardin",
+        "volume": 0.5,
+        "image": "table-de-jardin.png"
+      },
+      {
+        "name": "Tondeuse",
+        "volume": 0.5,
+        "image": "tondeuse.png"
+      },
+      {
+        "name": "Tracteur Enfant",
+        "volume": 1.0,
+        "image": "tracteur-enfant.png"
+      },
+      {
+        "name": "Tracteur Tondeuse",
+        "volume": 2.5,
+        "image": "tracteur-tondeuse.png"
+      }
+    ]
+  },
+  {
+    "piece": "Abris de jardin",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Banc",
+        "volume": 0.4,
+        "image": "banc.png"
+      },
+      {
+        "name": "Barbecue",
+        "volume": 1.0,
+        "image": "barbecue.png"
+      },
+      {
+        "name": "Chaise de Jardin",
+        "volume": 0.3,
+        "image": "chaise-de-jardin.png"
+      },
+      {
+        "name": "Chaise Longue",
+        "volume": 0.3,
+        "image": "chaise-longue.png"
+      },
+      {
+        "name": "Maison Enfant",
+        "volume": 1.5,
+        "image": "maison-enfant.png"
+      },
+      {
+        "name": "Piscine Hors sol",
+        "volume": 3.0,
+        "image": "piscine-hors-sol.png"
+      },
+      {
+        "name": "Portique",
+        "volume": 3.0,
+        "image": "portique.png"
+      },
+      {
+        "name": "Table de jardin",
+        "volume": 0.5,
+        "image": "table-de-jardin.png"
+      },
+      {
+        "name": "Tondeuse",
+        "volume": 0.5,
+        "image": "tondeuse.png"
+      },
+      {
+        "name": "Tracteur Enfant",
+        "volume": 1.0,
+        "image": "tracteur-enfant.png"
+      },
+      {
+        "name": "Tracteur Tondeuse",
+        "volume": 2.5,
+        "image": "tracteur-tondeuse.png"
+      }
+    ]
+  },
+  {
+    "piece": "Divers",
+    "objets": [
+      {
+        "name": "Carton Standard",
+        "volume": 0.10,
+        "image": "carton-standard.png"
+      },
+      {
+        "name": "Carton Livre",
+        "volume": 0.05,
+        "image": "carton-livre.png"
+      },
+      {
+        "name": "Valise",
+        "volume": 0.2,
+        "image": "valise.png"
+      },
+      {
+        "name": "Banc de musculation",
+        "volume": 1.5,
+        "image": "banc-de-musculation.png"
+      },
+      {
+        "name": "Billard",
+        "volume": 3.0,
+        "image": "billard.png"
+      },
+      {
+        "name": "Cadre Tableau",
+        "volume": 0.2,
+        "image": "cadre.png"
+      },
+      {
+        "name": "Lampe colonne",
+        "volume": 0.3,
+        "image": "lampe_colonne.jpg"
+      },
+      {
+        "name": "Lampe de chevet",
+        "volume": 0.2,
+        "image": "lampe-de-chevet.png"
+      },
+      {
+        "name": "Lampe sur pied",
+        "volume": 0.5,
+        "image": "lampe-sur-pied.png"
+      },
+      {
+        "name": "Lustre",
+        "volume": 0.3,
+        "image": "lustre.png"
+      },
+      {
+        "name": "Ski",
+        "volume": 0.3,
+        "image": "ski1.png"
+      },
+      {
+        "name": "Rideau",
+        "volume": 0.2,
+        "image": "rideaux.png"
+      }
+    ]
+  }
+]
