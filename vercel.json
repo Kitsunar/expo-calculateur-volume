@@ -1,3 +1,9 @@
+// vercel.json
 {
-  "functions": { "api/**/*.js": { "runtime": "nodejs18.x" } }
+  "version": 2,                       // version de configuration Vercel
+  "functions": {
+    "api/*.js": {
+      "runtime": "nodejs18.x"        // force Node.js 18 pour toutes vos fonctions dans /api
+    }
+  }
 }
