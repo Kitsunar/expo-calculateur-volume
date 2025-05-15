@@ -1,8 +1,8 @@
 [build]
-  command   = "expo build:web"
-  publish   = "web-build"
+  command   = "npm run web-build"
+  publish   = "web-build"            
+  functions = "netlify/functions"    
 
 [functions]
-  directory              = "netlify/functions"
-  node_bundler           = "esbuild"
-  external_node_modules  = ["node-fetch"]
+  node_bundler          = "esbuild"
+  external_node_modules = ["node-fetch"]
