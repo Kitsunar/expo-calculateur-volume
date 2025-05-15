@@ -1,0 +1,8 @@
+[build]
+  command   = "expo build:web"       # ou votre commande de build
+  publish   = "web-build"            # chemin où votre web app est sortie
+  functions = "netlify-functions"    # dossier où on placera votre API
+
+[functions]
+  node_bundler = "esbuild"           # plus rapide
+  external_node_modules = ["sendgrid","brevo"]  # ce dont vous avez besoin côté fonction
